@@ -4,7 +4,7 @@ body {
 }
 
 #topbar {
-	background-color: #ddd;
+	padding-top: 8px;
 }
 
 #topbar img {
@@ -34,7 +34,7 @@ li {
 
 .midpage {
 	text-align: center;
-	padding-top: 160px;
+	padding-top: 150px;
 }
 
 .logo {
@@ -51,9 +51,10 @@ li {
 
 #searchbar {
 	width: 540px;
-	height: 20px;
+	height: 22px;
 	margin: 10px;
 	font-size: 16px;
+	padding: 2px;
 }
 
 
